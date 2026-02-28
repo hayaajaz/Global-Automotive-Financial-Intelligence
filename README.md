@@ -24,7 +24,7 @@ This project demonstrates the transition from fragmented, multi-currency Excel d
 ### 2. Automated ETL & Data Cleaning (Python)
 ![Python Script Part 1](<images/pythonscript.PNG>)
 ![Python Script Part 2](<images/pythons.PNG>) 
-*(Note: Using both screenshots to show the full transformation logic)*
+
 * **Action:** Developed a robust **Python (Pandas)** pipeline to automate cleaning. 
 * **Key Logic:** Managed the "0 CC" validation for EVs and standardized all regional pricing into a unified format for financial comparison.
 
